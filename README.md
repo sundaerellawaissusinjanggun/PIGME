@@ -1,6 +1,6 @@
 # Front-End
 [URECA FE 1th] 2차 미니 프로젝트
-
+나를 뽑아서 방명록을 남겨줘! Pick me, PIGME
 
 ### 기획
 프로토타입
